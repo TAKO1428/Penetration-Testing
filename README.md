@@ -1,2 +1,2 @@
 # Penetration-Testing
-Program made to steal users and passwords. Outdated due to etichal hacking
+Program made to steal users and passwords of the multiple browsers. Outdated due to etichal hacking
